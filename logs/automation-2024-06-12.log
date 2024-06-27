@@ -1,0 +1,47 @@
+14:02:24.172 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:02:29.619 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:02:30.567 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:02:38.893 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+14:02:40.668 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+14:02:46.263 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+14:02:51.770 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+14:03:08.125 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:03:13.667 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:03:14.601 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:03:22.482 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+14:03:23.772 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+14:03:29.748 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+14:03:35.398 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+14:03:52.408 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:03:58.087 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:03:58.907 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:04:06.885 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+14:04:08.126 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+14:04:14.163 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+14:04:19.814 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+14:04:36.383 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:04:41.964 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:04:43.737 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:04:51.986 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+14:04:53.574 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+14:04:59.202 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+14:05:04.751 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+14:05:20.798 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+14:05:26.255 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+14:05:27.610 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+14:05:35.574 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+15:25:48.922 [main] INFO  testCases.TC_002_NewsPageTest - **** Starting TC_001_UserInfoTest  ****
+15:26:14.412 [main] INFO  testCases.TC_002_NewsPageTest - *********   TC_001_Feature news page is display     ************* 
+20:04:59.582 [main] INFO  testCases.TC_002_NewsPageTest - **** Starting TC_001_UserInfoTest  ****
+20:05:19.517 [main] INFO  testCases.TC_002_NewsPageTest - **** Finish TC_001_UserInfoTest  ****
+20:05:20.059 [main] INFO  testCases.TC_002_NewsPageTest - *********   TC_001_Feature news page is display     ************* 
+20:05:20.902 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_001_Feature news displyed successfully   ********
+20:05:22.963 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+20:05:29.013 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+20:05:34.500 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+20:05:50.546 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+20:05:55.911 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+20:05:56.894 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+20:06:05.456 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+20:06:06.932 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+20:06:12.477 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********

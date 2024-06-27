@@ -1,0 +1,26 @@
+20:06:17.952 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+20:06:34.387 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+20:06:39.958 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+20:06:40.654 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+20:06:48.790 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+20:06:49.835 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+20:06:55.430 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+20:07:00.990 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+20:07:17.062 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+20:07:22.470 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+20:07:23.359 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+20:07:31.753 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+20:07:32.820 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+20:07:38.530 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+20:07:44.171 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+20:08:00.627 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+20:08:06.043 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+20:08:07.575 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+20:08:15.635 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
+20:08:16.282 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_002_verifyToolTip ***********
+20:08:21.777 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_003_verifyHoverAuthorDetails *********
+20:08:27.309 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_004_shareOptions *********
+20:08:43.519 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_005_verifyNewsLetterLink Display*********
+20:08:48.802 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_006_verifyLikes Display *********
+20:08:49.637 [main] INFO  testCases.TC_002_NewsPageTest - ********* TC_007_verifyViews Display *********
+20:09:05.475 [main] INFO  testCases.TC_002_NewsPageTest - ******** News details are displayed successfully ******
